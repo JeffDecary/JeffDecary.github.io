@@ -82,7 +82,9 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-  UnderRevision:
+  MajorRevision:
+    title: 'Major Revision'
+  UnderReview:
     title: 'Under Review'
   PaperInProgress:
     title: 'Paper in Progress'
