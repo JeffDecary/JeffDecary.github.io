@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 "How can't you be romantic about baseball" — *Moneyball* (2011)
-I believe that anything you care deeply about—even the silliest things—can be special!
+Anything you care deeply about—even the silliest things—can be special!
 
 ---
 
