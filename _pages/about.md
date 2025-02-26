@@ -29,7 +29,7 @@ I had the privilege of growing up in the vibrant city of Montreal, Canada. Much 
 
 When I’m not playing or watching sports, you’ll likely find me cooking, baking, traveling, or playing board games—as long as friends or family are involved.
 
-In a previous chapter of my life, I was among the top table tennis players in Canada. Recently, I had the opportunity to revive this skill in a unique way—by performing in a contemporary art show. The goal was to move beyond the competitive nature of sports and highlight their collaborative essence. This performance was a creative collaboration with my friend, Antoine Bernadet, and was beautifully designed by choreographers Dorian and Simon.
+In a previous chapter of my life, I was among the top table tennis players in Canada. Recently, I had the opportunity to revive this skill in a unique way—by performing in a contemporary art show. The goal was to move beyond the competitive nature of sports and highlight their collaborative essence. This performance was a creative collaboration with my friend, Antoine Bernadet, and was beautifully designed by choreographers [Dorian](https://www.doriannuskindoder.com/choreography/speed-glue-2019/) and Simon.
 
 👉 [Watch the Performance Here](#)
 
