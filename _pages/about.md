@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-"How can't you be romantic about baseball" — *Moneyball* (2011)
+"How can't you be romantic about baseball?" — *Moneyball* (2011)
 Anything you care deeply about—even the silliest things—can be special!
 
 ---
