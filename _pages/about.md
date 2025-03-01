@@ -42,7 +42,3 @@ Thanks for taking the time to get to know me. As Robin Williams once said:
 
 
 If you’d like to chat, collaborate, or just grab a coffee, feel free to reach out at 📩 Jeff.Sylvestre-Decary@uconn.edu.
-
-<!-- 
-======
-This is my website repo.
