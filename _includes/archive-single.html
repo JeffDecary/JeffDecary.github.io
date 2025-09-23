@@ -42,9 +42,9 @@
         {% elsif post.collection == 'PaperInProgress' %}
           <p> Paper in progress <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.category == 'UnderReview' and post.category2 == 'MajorRevision' %}
-          <p>Major Revision at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Under 2nd round Major Revision at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.category == 'UnderReview' and post.category2 == 'RNR' %}
-          <p>Reject and Resubmit at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Under Review at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' and post.category == 'UnderReview' and post.category2 == 'UnderReview' %}
           <p>Under Review at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
