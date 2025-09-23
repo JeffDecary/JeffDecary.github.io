@@ -2,7 +2,7 @@
 title: "Simplifying the Madness of March Madness"
 collection: Publications
 category: UnderReview
-category2: MajorRevision
+category2: MajorRevision2
 permalink: /publications/2024-07-18-MarchMadness
 excerpt: 'This paper explores algorithmic strategies for selecting a competitive set of entries for sports betting pools in March Madness.'
 date: 2024-08-04
