@@ -20,12 +20,12 @@ Before joining UConn, I completed an M.Sc. in Mathematics at Polytechnique Montr
 ---
 
 ## 🔹 Research Interests
-My research lies at the intersection of mathematical optimization—particularly discrete optimization—game theory, and machine learning. I am broadly interested in designing algorithms for stochastic games, leveraging large datasets to analyze game dynamics and competitive strategies. My work spans from individual players to market-makers, focusing on strategy design in sports betting and predictive markets to tackle revenue maximization problems.
+I study optimization for strategic decision making and market design in prediction markets. My research centers on risk-sensitive combinatorial allocation, platform pricing, and econometric methods for causal inference. Methodologically, I integrate discrete, stochastic, and bilevel optimization, dynamic programming, and applied machine learning to design exact and simulation-based algorithms for high-stakes decisions. I use digital platforms such as sportsbooks and betting pools as testbeds for studying allocation, pricing, and strategy. These platforms are structured marketplaces where participants compete under platform-defined rules and incentives. My passion lies at the intersection of optimization and strategic interaction: I aim to design tools that help participants and platforms make better decisions in competitive environments where existing methods fall short and lack rigorous guarantees.
 
 ---
 
 ## 🔹 Outside of Research
-I had the privilege of growing up in the vibrant city of Montreal, Canada. Much like my research, my hobbies are deeply intertwined with sports and games. As a true Canadian, I have a love for hockey, but in recent years, I’ve also taken up sailing and golf. However, my true passion lies in racket sports—these days, I primarily compete in tennis, pickleball, and badminton.
+I had the privilege of growing up in the vibrant city of Montreal, Canada. Much like my research, my hobbies are deeply intertwined with sports and games. Like many Canadians, I have a love for hockey, but in recent years, I’ve also taken up sailing and golf. However, my true passion lies in racket sports—these days, I primarily enjoy tennis, pickleball, and golf.
 
 When I’m not playing or watching sports, you’ll likely find me cooking, baking, traveling, or playing board games—as long as friends or family are involved.
 
