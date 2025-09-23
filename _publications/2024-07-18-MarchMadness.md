@@ -5,7 +5,7 @@ category: UnderReview
 category2: MajorRevision2
 permalink: /publications/2024-07-18-MarchMadness
 excerpt: 'This paper explores algorithmic strategies for selecting a competitive set of entries for sports betting pools in March Madness.'
-date: 2024-08-04
+date: 2025-08-04
 venue: 'Production and Operations Management'
 slidesurl: '/files/INFORMS_2024_The_Madness_of_Multiple_Entries_in_March_Madness.pdf'
 paperurl: '/files/Simplifying_the_Madness_of_Multiples_Entries_in_March_Madness.pdf'

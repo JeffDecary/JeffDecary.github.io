@@ -2,7 +2,7 @@
 title: "Log-Optimal Portfolio Construction for Binary Options with Combinatorial Constraints"
 collection: Publications
 category: UnderReview
-category2: UnderReview
+category2: UnderReviewRNR
 permalink: /publications/2025-01-16-ParlayBuilding
 excerpt: 'This paper develops an exact algorithm for a portfolio allocation problem in sports betting, incorporating a log-utility objective function and practical constraints.'
 date: 2025-08-14
